@@ -1,0 +1,16 @@
+{
+  "testData": [
+    {
+      "fullName": "Alibek Nurdaulet",
+      "email": "superalibek@gmail.com"
+    },
+    {
+      "fullName": "Test Name",
+      "email": "testname@gmail.com"
+    },
+    {
+      "fullName": "Test 2",
+      "email": "test2@mail.ru"
+    }
+  ]
+}
